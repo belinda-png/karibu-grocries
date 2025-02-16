@@ -1,0 +1,12 @@
+#main{
+    margin-top: 30px;
+}
+.container-main{
+    max-width: 1200px;
+    margin: 0 auto;
+    align-content: right;
+}
+.container{
+    align-items: right;
+
+}
